@@ -1,0 +1,24 @@
+/*CSS as per https://eservices.ica.gov.sg/wro/esvclanding.css and original from ncs*/
+.announcement{
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:15px;
+	padding-bottom:20px;
+	background-color:#ffc;
+}
+
+h3{
+	background-size:1.3em;
+	font-weight:bold;
+	font-style:normal;
+	font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size:1.5em;
+	background-position-y:15%;
+}
+
+.broadcastMsg {
+    font-weight: 400;
+    font-style: normal;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 1.1em;
+}
